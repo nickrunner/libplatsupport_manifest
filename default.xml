@@ -17,7 +17,7 @@
      for this to be '../seL4' instead of '.' -->
 <remote name="DW" 
 fetch="https://github.com/dornerworks/"/>
-<remote name="seL4"
+<remote name="https://github.com/seL4"
 fetch="."
 />
 
