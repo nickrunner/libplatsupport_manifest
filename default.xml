@@ -22,7 +22,7 @@ fetch="."
 />
 
 <default revision="master"
-remote="seL4"
+remote="https://github.com/seL4"
 />
 
 <project name="seL4.git" path="kernel"/>
