@@ -17,12 +17,12 @@
      for this to be '../seL4' instead of '.' -->
 <remote name="DW" 
 fetch="https://github.com/dornerworks/"/>
-<remote name="https://github.com/seL4"
-fetch="."
+<remote name="sel4"
+fetch="https://github.com/seL4"
 />
 
 <default revision="master"
-remote="https://github.com/seL4"
+remote="sel4"
 />
 
 <project name="seL4.git" path="kernel"/>
